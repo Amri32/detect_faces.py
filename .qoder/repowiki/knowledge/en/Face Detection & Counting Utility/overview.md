@@ -1,0 +1,1 @@
+Scans directories for images and videos, detects faces using OpenCV Haar Cascades, and saves cropped results with a summary report.

@@ -1,0 +1,11 @@
+schema_version: 1
+module_path: ""
+title: Face Detection & Counting Utility
+scope:
+    - .gitignore
+    - detect_faces.py
+    - requirements.txt
+    - test_input\test_face.jpg
+source_files: []
+depends_on: []
+related_to: []

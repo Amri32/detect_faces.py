@@ -1,0 +1,4 @@
+- Single-script architecture centered on `detect_faces.py` with a `FaceDetector` class wrapping OpenCV's `CascadeClassifier`.
+- Distinct processing pipelines for images (`process_image`) and videos (`process_video`), the latter employing frame sampling for performance.
+- Output management separates annotated media, cropped face images, and a CSV summary (`summary.csv`) into structured directories.
+- Relies on `supervision` for detection data structures and annotation, and `tqdm` for progress tracking.
