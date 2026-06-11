@@ -1,0 +1,1 @@
+Uses OpenCV (Haar Cascades) for detection, `supervision` for annotation/Detections abstraction, and `numpy` for array operations.

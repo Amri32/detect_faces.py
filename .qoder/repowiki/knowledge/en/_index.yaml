@@ -1,0 +1,18 @@
+# 知识卡导出索引文件
+schema_version: 1
+locale: en-US
+branch: master
+exported_at: "2026-06-11T04:44:42Z"
+modules:
+    "":
+        dir_name: Face Detection & Counting Utility
+        title: Face Detection & Counting Utility
+        scope:
+            - .gitignore
+            - detect_faces.py
+            - requirements.txt
+            - test_input\test_face.jpg
+        source_files: []
+        children: []
+        depends_on: []
+        related_to: []

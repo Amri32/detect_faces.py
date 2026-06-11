@@ -1,0 +1,3 @@
+- Uses `pathlib.Path` for all file system interactions and directory management.
+- Returns structured dictionaries from processing functions to aggregate results for CSV export.
+- Employs `tqdm` progress bars for both file-level iteration and intra-video frame processing.
