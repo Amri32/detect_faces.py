@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+venv/
+.venv/
+
+# Output
+output/
+*.log
+
+# Model weights
+*.pt
+*.onnx
+
+# OS
+Thumbs.db
+.DS_Store
